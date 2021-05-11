@@ -1,0 +1,4 @@
+R5T.L0005.Extensions - Extensions and custom functionality for the AWSSDK.S3 library.
+
+Goals
+
